@@ -122,7 +122,7 @@ h2 {
 }
 
 /********** Mobile view **********/
-@media (min-width: 767px) {
+@media (max-width: 767px) {
   .col-mb-1, .col-mb-2, .col-mb-3, .col-mb-4, .col-mb-5, .col-mb-6, .col-mb-7, .col-mb-8, .col-mb-9, .col-mb-10, .col-mb11, .col-mb-12 {
     float: left;
     border: 1px solid green;
