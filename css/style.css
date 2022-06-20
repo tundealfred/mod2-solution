@@ -28,6 +28,19 @@ h2 {
   color: black;
 }
 
+section {
+  border: 1px white solid;
+  width: 33.33%;
+  float: left;
+  position: relative;
+  /* margin: 1%; */
+
+  padding: 10px;
+  padding-top: 60px;
+  color: white;
+  background-color: rgb(0, 0, 0);
+}
+
 /* Simple Responsive Framework. */
 .row {
   width: 100%;
