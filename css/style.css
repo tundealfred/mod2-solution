@@ -80,19 +80,7 @@ h2 {
 /********** Tablet view **********/
 @media (min-width: 768px) and (max-width: 991px) {
 
-  section.first {
-    width: 50%;
-  }
-
-  section.second {
-    width: 50%;
-  }
-  section.third {
-    width: 100%;
-    /* margin-top: 20px; */
-  }
-}
- /* .col-tb-1, .col-tb-2, .col-tb-3, .col-tb-4, .col-tb-5, .col-tb-6, .col-tb-7, .col-tb-8, .col-tb-9, .col-tb-10, .col-tb-11, .col-tb-12 {
+ .col-tb-1, .col-tb-2, .col-tb-3, .col-tb-4, .col-tb-5, .col-tb-6, .col-tb-7, .col-tb-8, .col-tb-9, .col-tb-10, .col-tb-11, .col-tb-12 {
     float: left;
     border: 1px solid green;
   }
@@ -132,7 +120,7 @@ h2 {
   .col-tb-12 {
     width: 100%;
   }
-} */
+} 
 
 /********** Mobile view **********/
 @media (max-width: 767px) {
