@@ -27,7 +27,7 @@ p {
 h2 {
   border: 1px solid black;
   background-color: #0000ff;
-  width: auto;
+  width: 100px;
   float: right;
   /*height: 150px;*/
   font-family: Helvetica;
